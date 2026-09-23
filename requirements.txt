@@ -1,0 +1,5 @@
+textual>=0.47.0
+flask>=3.0
+supabase>=2.0
+python-dotenv>=1.0
+pyinstaller>=6.0

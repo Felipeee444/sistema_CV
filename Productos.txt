@@ -1,0 +1,4 @@
+P001,Cuaderno,12.5,4
+P002,Lapicera,4.5,18
+P003,Mochila,850.0,5
+10515,pssi,5000.0,0
