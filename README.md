@@ -18,11 +18,12 @@ Versión en Python del `SistemaCompraVenta.java`, con interfaz en la terminal
 
 ## Cómo ejecutar
 
-**Opción A — ejecutable** (no requiere Python ni VS Code):
+**Opción A — ejecutable**
 
 ```
 SistemaCompraVenta.exe
 ```
+![image](https://github.com/Felipeee444/sistema_CV/blob/0c79a7bc95be1b4a333fac72303634ab3ff1cc93/Captura%20de%20pantalla%202026-09-24%20091445.png)
 
 **Opción B — desde el código:**
 
