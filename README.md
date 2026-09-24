@@ -73,7 +73,7 @@ y sincroniza con la nube. Si Supabase no responde, funciona 100% en modo local.
 | GET | `/api/ventas` | Historial con detalle de ventas |
 | POST | `/api/ventas` | Registra venta (valida stock y lo descuenta) |
 
-## Estructura (equivalente a la versión Java)
+## Estructura
 
 - `Producto` / `ListaProductos` → lista enlazada (misma lógica que en Java)
 - `Archivo` → guardar/cargar productos (Supabase + `.txt`)
