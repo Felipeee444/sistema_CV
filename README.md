@@ -1,6 +1,6 @@
 # Sistema de Compra y Venta
 
-Versión en Python del `SistemaCompraVenta.java`, con interfaz en la terminal
+Sistema de compra y venta, con interfaz en la terminal
 (**Textual**) y sincronización a **Supabase**. Incluye una API web con **Flask**.
 
 ## Archivos
